@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/api-prediction/static/css/main.b53730f4.css",
+    "main.js": "/api-prediction/static/js/main.074742a2.js",
+    "static/media/20-a6cd4cSpecialties-1-10-06.webp": "/api-prediction/static/media/20-a6cd4cSpecialties-1-10-06.98920b772f0d8dbb6f75.webp",
+    "index.html": "/api-prediction/index.html",
+    "main.b53730f4.css.map": "/api-prediction/static/css/main.b53730f4.css.map",
+    "main.074742a2.js.map": "/api-prediction/static/js/main.074742a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b53730f4.css",
+    "static/js/main.074742a2.js"
+  ]
+}
